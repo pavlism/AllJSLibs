@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/pavlism/AllJSLibs/issues"
   },
+  "dependencies": {"pavlism-logger": "^1.0.0","pavlism-lib": "^1.0.0","pavlism-jslib": "^1.0.0","pavlism-dblib": "^1.0.0","pavlism-iolib": "^1.0.0","pavlism-strext": "^1.0.0","pavlism-brokers": "^1.0.0","pavlism-asynctracker": "^1.0.0"},
   "homepage": "https://github.com/pavlism/AllJSLibs#readme"
 }
