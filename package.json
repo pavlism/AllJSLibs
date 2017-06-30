@@ -1,0 +1,19 @@
+{
+  "name": "pavlism-alljslibs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "AllJSLibs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlism/AllJSLibs.git"
+  },
+  "author": "Mark Pavlis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavlism/AllJSLibs/issues"
+  },
+  "homepage": "https://github.com/pavlism/AllJSLibs#readme"
+}
